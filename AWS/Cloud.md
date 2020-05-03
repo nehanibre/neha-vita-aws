@@ -8,6 +8,6 @@ what is cloud computing?
 
   `Public cloud`:It is type of computing in which service provider makes resources avaliable over internet ,making them avaliable to anyone who want to use it.
   
-  `Private cloud`:It provide services to only organisation i.e. selected user 
+  `Private cloud`:It provide services to only one organisation i.e. selected user 
 
 `Hybrid Cloud`:Combination of private and public cloud.
