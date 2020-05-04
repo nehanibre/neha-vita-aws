@@ -18,4 +18,24 @@ It is virtual network dedicated to your aws account .It is at organisation level
 
 -Security group is present in every subnets.
 
+## Cloud watch
+
+it monitors resources used eg.Ec2 ram,cpu and applications.
+
+## Cloud trail 
+
+track user activity
+
+when we perform any action on AWS userinterface it is stored by cloud trail.
+
+eg. if we stop aws instance then it will store username .
+
+## Status check:
+
+two types:
+
+System :These checks monitor the AWS systems required to use this instance and ensure they are functioning properly.
+
+instance:These checks monitor your software and network configuration for this instance.
+
 
