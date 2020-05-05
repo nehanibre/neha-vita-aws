@@ -26,6 +26,9 @@
         
                                  eg.while launching if u want to install mysql server then we right command here
                                  
+                                 in user data commaand of window/linux executes as rootuser
+                                 
+                                 
 4.add storage
 
 5.add tag
